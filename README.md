@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+I'm an Informatics undergraduate passionate about technology, data analysis, and backend development. With experience in data science, machine learning, and full-stack development, I enjoy working on impactful projects that leverage technology for real-world solutions.
 
 
 # 💻 Tech Stack:
